@@ -1,0 +1,113 @@
+.card {
+    width: 250px;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+.img {
+    width: 100px;
+    height: 105px;
+    align-items: right;
+    border-radius: 50px;
+    box-shadow: 1px 1px 3px 3px  rgb(171, 197, 6);
+    padding: 0px;
+    
+}
+
+.claseNombres {
+    display: flex;
+    font-size: 0.9rem;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    
+    
+}
+.container-card {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 100px;
+        
+}
+.status {
+    display:block;;
+    font-size: 0.6rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    margin-top: 0px;
+    color: rgb(35, 176, 42);
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+    padding: 10px;
+                
+    
+}
+.span {
+    display: block;
+    color: rgb(255, 255, 255);
+    width: 30px;
+    
+}
+
+.busqueda {
+    
+
+    
+    
+    
+    
+}
+.title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    font-size:3.4rem;
+    align-items: center;
+    color: rgb(16, 16, 16);
+    text-shadow: 3px 3px rgb(210, 200, 235);
+
+}
+
+
+.containerBus {
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content:space-around;
+    padding: 5px;
+    
+    justify-content: center;
+    
+    
+}
+
+.select {
+    
+    width: 300px;
+    height: 3vh;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px 3px rgb(18, 19, 20);
+    -webkit-text-stroke-color: rgb(166, 166, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 2px solid black;
+    margin: 8px;
+
+    
+    
+
+
+}
